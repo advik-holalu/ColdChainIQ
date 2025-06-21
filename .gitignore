@@ -1,0 +1,14 @@
+# Ignore data files
+data/
+*.tif
+*.geojson
+*.shp
+*.csv
+
+# Ignore environment files
+.env
+__pycache__/
+.ipynb_checkpoints/
+
+# OS-specific
+.DS_Store
